@@ -1,0 +1,91 @@
+body {
+		margin: 25px;
+		font-family: Roboto Condensed, Garamond, sans-serif;
+}
+
+header	{
+	text-align: center;
+	padding: 200px;
+	background-image: url(./images/1pokemon.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: black;
+}
+
+div	{
+	max-width: 900px;
+	margin: 40px auto;
+	padding: 10px;
+}
+
+footer	{
+text-align: center;
+padding: 20px;
+background-color: #69a8bf;
+font-size: 22px;
+}
+
+.botao {
+	background-color: rgba(105, 168, 191, 0.7);
+	padding: 7.5px 17px;
+	border-radius: 20px;
+	text-decoration: none;
+	color: #a13c2a;
+	font-weight: bold;
+}
+
+.botao:hover {
+	color: #752c1e;
+}
+
+.lista-links {
+	list-style: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+.lista-links a {
+	color: #a13c2a;
+}
+
+.lista-links a:hover {
+	color: #752c1e;
+}
+
+.lista-links li {
+	display: inline;
+	margin: 0 20px;
+}
+
+.subtitulo {
+	font-size: 25px;
+	color: whitesmoke;
+	text-shadow: 2px 2px 5px #4a4a49;
+}
+
+.pergunta {
+	font-family: Roboto Condensed, Arial, sans-serif;
+	font-size: 30px;
+	margin-bottom: 40px;
+}
+
+.titulo {
+	font-family: Roboto Condensed, Arial, sans-serif;
+	font-size: 65px;
+	color: whitesmoke;
+	text-shadow: 4px 4px 7px #4a4a49;
+}
+
+p {
+	 min-height: 58px;
+}
+
+
+
+
+
+
+
+
